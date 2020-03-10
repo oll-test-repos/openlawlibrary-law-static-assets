@@ -1,2 +1,3 @@
 # openlawlibrary-law-static-assets
-Test repositories where the default static assets will be pushed
+
+This repository is used for testing and development purposes and does not contain official assets.
