@@ -44,11 +44,6 @@
       "dir": "ltr"
     },
     "msapp": { "tileColor": "#FFFFFF" },
-    "search": {
-      "searchHost": "https://sanmateo.ca.us.open.law",
-      "queryUrl": "/_search/global",
-      "method": "GET"
-    },
     "openGraph": {
       "libraryName": "Open Law Library",
       "defaultDescription": "San Mateo Law library contains latest official version of laws, ordinances, city charter and code.",
