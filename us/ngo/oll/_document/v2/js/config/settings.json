@@ -16,6 +16,7 @@
     "entityName": "cityofsanmateo",
     "staticAssets": "git@github.com:oll-test-repos/openlawlibrary-law-static-assets.git",
     "style": { "namespaceSuffix": "oll-core" },
+    "fetchCodeRecency": true,
     "logo": {
       "name": "San Mateo Law Library",
       "libraryLogo": { "image": "", "srcset": [] },
