@@ -35,7 +35,7 @@
   "reader": {
     "rootUrl": "/",
     "themeVariation": {
-      "header": "hv3",
+      "header": "hv1",
       "footer": "fv1"
     }
   }
